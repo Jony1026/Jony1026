@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jony1026
-- 👀 I’m interested in studying
+- 👀 I’m interested in studying some code
 - 🌱 I’m currently learning about some useful knowledge
 - 💞️ Thanks for being here~
 
